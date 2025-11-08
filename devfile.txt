@@ -1,2 +1,3 @@
 i am devfile.
-This is device file.
+This is device file
+dev version 2
